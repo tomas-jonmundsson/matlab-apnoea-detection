@@ -12,9 +12,9 @@ A machine learning classifier built in MATLAB to detect sleep apnoea events from
 - Performance evaluation across apnoea event detection
 
 ## Repository Contents
-- `apnoea_detection_report.pdf` — Full project report
-- `data_train.m` - Model training script
-- `data_test.m` - Model testing script
+- `apnoea_detection_report.pdf`: Full project report
+- `data_train.m`: Model training script
+- `data_test.m`: Model testing script
 
 ## Tools & Technologies
 `MATLAB` `Machine Learning` `Signal Processing` `Data Acquisition`
