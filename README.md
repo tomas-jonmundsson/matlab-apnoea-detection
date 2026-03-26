@@ -3,7 +3,7 @@
 **Biomedical Engineering | University of Sydney | 2025**
 
 ## Overview
-A machine learning classifier built in MATLAB to detect sleep apnoea events from physiological signal data, using imaging and data acquisition pipelines with feature-based signal analysis.
+A machine learning (ML) classifier built in MATLAB to detect sleep apnoea events from physiological signal data, extracting heart rate and oxygen saturation features, and analysing them within time epochs. 
 
 ## Technical Approach
 - Data acquisition and preprocessing of physiological signals
@@ -20,9 +20,4 @@ A machine learning classifier built in MATLAB to detect sleep apnoea events from
 `MATLAB` `Machine Learning` `Signal Processing` `Data Acquisition`
 
 ## Note on Data
-Training and test datasets are not included in this repository due to file size constraints. The code is provided for reference — if you wish to run it, the data pipeline expects the following structure:
-```
-data/
-├── train_set/
-└── test_set/
-```
+Training and test datasets are not included in this repository due to file size constraints. The code is provided for reference.
